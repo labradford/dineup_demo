@@ -1,0 +1,71 @@
+.logo-overlay {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    top: 10px;
+    left: 45%;
+    margin-left: -50px;
+    font-size: 5em;
+    color: white;
+    text-shadow: 0 1px 2px rgba(0,0,0,.6);
+}
+
+.panel-default>.panel-heading{
+  color: #ac9456;
+  text-align:center;
+}
+
+
+.fa.icon1 {
+  font-size: 3em;
+  border-radius: 50px;
+  background-color: #fff;
+  height: 75px;
+  width: 75px;
+  margin: 0 auto;
+  position:relative;
+  padding-top:20px;
+
+}
+
+.listing {
+    list-style-type: circle;
+}
+
+.well.maincta {
+  background:url('../img/hero2.jpeg');
+  padding-top: 250px;
+  padding-bottom: 250px;
+}
+
+.maincta p {
+  color: #fff;
+  font-size: 2em;
+}
+
+.btn-app-store{
+    background: black;
+	color: white;
+	position: relative;
+	height: 60px;
+	padding-left: 55px;
+	padding-right: 20px;
+}
+.btn-app-store i{
+	font-size: 40px;
+	position: absolute;
+	left: 10px;
+}
+.btn-app-store .small{
+	display: block;
+	font-size: 12px;
+	line-height: 12px;
+	margin-bottom: 2px;
+    margin-top: 5px;
+}
+.btn-app-store .big{
+	display: block;
+	text-align: left;
+	font-size: 21px;
+	line-height: 21px;
+}
